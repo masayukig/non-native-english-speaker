@@ -1,6 +1,6 @@
-====================================================
-OpenStack Days Tokyo 2017 Non-Native English speaker
-====================================================
+============================================================
+2017 Non-Native English speaker at Open Developer Conference
+============================================================
 
 Built with beamer latex
 
@@ -8,9 +8,9 @@ Install texlive with most of the plugins via your distro
 
 to build just run::
 
-  % pdflatex osdt-2017-non-native-english-speaker.tex
+  % pdflatex non-native-english-speaker.tex
 
-the output will be osdt-2017-non-native-english-speaker.pdf
+the output will be non-native-english-speaker.pdf
 
 
 ====
